@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179281922831",
+    "project_id": "center-2746b",
+    "storage_bucket": "center-2746b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179281922831:android:304f58192d9312c4324c7a",
+        "android_client_info": {
+          "package_name": "com.example.center2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzsEgG8rfKFwkqkfSGpx8Ms-gUVUQyhSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
